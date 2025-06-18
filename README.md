@@ -9,7 +9,7 @@ CSS: Estilização
 
 # Arquivos 
 index.html: Página pincipal com os conteúdos e seções.
-tyle.css: Estilo visual com cores, fontes e layout
+style.css: Estilo visual com cores, fontes e layout
 
 # cabeçalho(header)
 - Titúlo: Feiras Agroecológicas
